@@ -15,6 +15,17 @@
             <artifactId>jol-core</artifactId>
             <version>0.9</version>
         </dependency>
+        <!-- 添加 Druid 连接池依赖 -->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>druid</artifactId>
+            <version>1.2.8</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.jsqlparser</groupId>
+            <artifactId>jsqlparser</artifactId>
+            <version>4.7</version>
+        </dependency>
     </dependencies>
 
 </project>
